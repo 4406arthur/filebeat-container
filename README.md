@@ -1,6 +1,6 @@
 # filebeat-container
 
-docker container with filebeat:5.4.1 on alpine
+docker container with filebeat:6.2.4 on alpine
 
 use for shipping log with sidecar pattern
 
